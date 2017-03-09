@@ -1,0 +1,25 @@
+{
+  "name": "test-framework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didietsuryadi/test-framework-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didietsuryadi/test-framework-1/issues"
+  },
+  "homepage": "https://github.com/didietsuryadi/test-framework-1#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
